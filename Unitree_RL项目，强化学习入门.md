@@ -4,7 +4,7 @@
 
 Unitree\_rl\_lab这个项目是宇树自己开发的独立拓展工程项目，用NVIDIA的Isaac Lab平台来做的强化学习项目，整体的代码文件结构是这样的：
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTUyMDJlNmE0MGEwYzk4YjJiMjFhNTc3ZjhlMTZmMGVfZTEwMzQzYzUwYzRkNjc3MWYwYzk5Zjc3Yzk4NjIxZmNfSUQ6NzY0NzM2OTE2NjEzOTk4NDg0NV8xNzgwODg3NDc4OjE3ODA5NzM4NzhfVjM)
+![1](Unitree_RL项目，强化学习入门.assets\1.PNG)
 
 # 二、常见概念
 
